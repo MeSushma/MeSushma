@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeSushma
 - 👀 I’m interested in Data science and ML
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on like minded 
+- 💞️ I’m looking to collaborate with like minded 
 - 📫 How to reach me ...
 
 <!---
